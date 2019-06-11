@@ -142,6 +142,7 @@ export class Queue {
      }
 
     });
+  }
 
 
   /**
